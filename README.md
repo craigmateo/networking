@@ -184,6 +184,8 @@ C examples are located in their respective folders.
 - TCP Socket API  
 - Summary
 
+**Example:** Basic TCP client/server
+
 ## ⚙️ Module 14: Multithreading Concepts to a Client/Server Program
 
 - Introduction
@@ -192,6 +194,8 @@ C examples are located in their respective folders.
 - Thread Priorities and Thread Scheduling 
 - Thread Synchronization
 - Multithreading in Client-Server Program
+
+**Example:** Multithreading client-server program
 
 ---
 
