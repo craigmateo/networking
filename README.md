@@ -71,6 +71,8 @@ This repository contains personal notes from a Network Programming course. The n
 - Addresses for Internet-Accessible Hosts
 - Summary
 
+**Example: Basic IP subnetting operations**
+
 ## Module 6: Ethernet and Network Devices
 
 - Introduction
@@ -79,6 +81,8 @@ This repository contains personal notes from a Network Programming course. The n
 - Ethernet Physical Layer
 - Communication Devices
 - Summary
+
+**Example: Interpreting and displaying a MAC address**
 
 ## Module 7: ARP and Network Utilities
 
@@ -89,6 +93,8 @@ This repository contains personal notes from a Network Programming course. The n
 - Common Network Utilities
 - Configure PC for Network
 - Summary
+
+**Example: ARP cache simulation**
 
 ## Module 8: Cabling and Protocol Operations
 
@@ -101,6 +107,8 @@ This repository contains personal notes from a Network Programming course. The n
 - Physical Layer
 - Physical Media for Communication
 - Summary
+
+**Example: Data frame simulation**
 
 ## Module 9: Modulation Techniques
 
@@ -117,6 +125,8 @@ This repository contains personal notes from a Network Programming course. The n
 - Noise
 - Synchronous vs Asynchronous Communication
 - Summary
+
+**Example: Simulation of Amplitude Shift Keying (ASK)**
 
 ## Module 10: Transport Layer and Port Numbers
 
