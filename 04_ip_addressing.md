@@ -1,5 +1,40 @@
 # Module 4: IP Addressing
 
+## 📘 Introduction
+Welcome to Module 4 of your network programming course. This module covers IP addressing in detail, including addressing schemes, IP versions, and address types.
+
+---
+
+### 🎯 Learning Outcomes
+
+By the end of this module, you should be able to:
+
+- Explain the importance of addressing and naming schemes in IP network communications.
+- Identify the MAC address of devices and explain its benefits in IP networks.
+- Explain the coexistence of IP versions (IPv4 and IPv6).
+- Perform Binary ↔ Decimal conversions.
+- Identify different IPv4 classes and their default subnet masks.
+- Distinguish between public and private network addresses.
+- Explain:
+  - Network address
+  - Broadcast address
+  - Unicast address
+  - Multicast address
+- Describe IPv6 address structure and identify its segments and types.
+
+---
+
+### 🗝️ Key Terms and Concepts
+
+| Term | Description |
+|------|-------------|
+| **NIC (Network Interface Card)** | A chip on the motherboard that converts data into electrical signals for network transmission. |
+| **OUI (Organizationally Unique Identifier)** | First 3 octets (24 bits) of a MAC address identifying the NIC manufacturer. |
+| **Dual Stack** | Ability to run IPv4 and IPv6 in parallel on the same device or network. |
+| **NAT (Network Address Translation)** | Converts internal (private) IP addresses to external (public) IPs for outbound communication. |
+
+---
+
 ## Importance of Addressing and Naming Schemes in IP Networks
 
 - Proper **addressing** and **naming schemes** are essential for managing and controlling networks efficiently.
