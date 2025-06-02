@@ -13,6 +13,8 @@ This repository contains personal notes from a Network Programming course. The n
 - OSI Model
 - Summary
 
+**Example: TCP client-server communication system**
+
 ## Module 2: TCP/IP Model and Network Protocols
 
 - Introduction
@@ -20,6 +22,8 @@ This repository contains personal notes from a Network Programming course. The n
 - TCP/IP Model
 - TCP/IP Protocol Framework
 - Summary
+
+**Example: HTTP server and client**
 
 ## Module 3: Application Layer Services & Protocols
 
@@ -37,6 +41,8 @@ This repository contains personal notes from a Network Programming course. The n
 - Example of SMTP & IMAP Working Together
 - Summary
 
+**Example: Simulated email protocols (SMTP + IMAP)**
+
 ## Module 4: IP Addressing
 
 - Introduction
@@ -50,6 +56,8 @@ This repository contains personal notes from a Network Programming course. The n
 - Unicast and Multicast Addresses
 - IPv6 Address
 - Summary
+
+**Example: Identify and classify all local IPv4 addresses**
 
 ## Module 5: IP Subnetting
 
